@@ -1,0 +1,13 @@
+.rootform{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+}
+
+.addproductbutton{
+    margin-top: 0.7rem;
+}
